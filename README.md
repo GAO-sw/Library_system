@@ -1,6 +1,6 @@
-#Laboratory work -  Library Management System
+# Laboratory work -  Library Management System
                         
-###- 2025.04.13 ВШЭ-НН КНТ1 Гао сунвань
+### 2025.04.13 ВШЭ-НН КНТ1 Гао сунвань
 
 The project include:
 - 5 classes with separate .h/.cpp files
